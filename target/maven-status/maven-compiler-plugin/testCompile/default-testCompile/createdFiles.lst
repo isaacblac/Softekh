@@ -1,0 +1,8 @@
+ng\softekh\eapp\test\TestStudentServiceRegister.class
+ng\softekh\eapp\test\TestStudentDAOFindById.class
+ng\softekh\eapp\test\TestStudentDAOFindAll.class
+ng\softekh\eapp\test\TestStudentDAOUpdate.class
+ng\softekh\eapp\test\TestStudentDAOSave.class
+ng\softekh\eapp\test\TestStudentDAODelete.class
+ng\softekh\eapp\test\TestStudentDAOFindByProperty.class
+ng\softekh\eapp\test\TestDataSource.class
